@@ -12,7 +12,7 @@ import com.devsam.vendas.dto.SaleDTO;
 import com.devsam.vendas.services.SaleService;
 
 @RestController
-@RequestMapping(value = "/sales")
+@RequestMapping(value = "/sellers")
 public class SellerController {
 	
 	@Autowired
